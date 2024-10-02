@@ -1,1 +1,1 @@
-# pmu-race-service
+# race-service
